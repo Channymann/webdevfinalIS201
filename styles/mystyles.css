@@ -1,0 +1,35 @@
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}
+
+h5 {
+    font-size: 50px;
+}
+
+body {
+    background-color:aliceblue
+}
+
+.common {
+    position: relative;
+}
+
+.center {
+    text-align: center;
+}
+
+.ResumeHeadings {
+    position: relative;
+    left: 250px;
+}
+
+.legoposition {
+    position: relative;
+    left: 550px;
+}
+
+.backtotop {
+    position:relative;
+    left: 10px;
+}
